@@ -1,0 +1,10 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b6ca8"/>
+      <stop offset="100%" stop-color="#34a0a4"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="196" height="56" rx="14" fill="url(#grad)" stroke="#ffffff" stroke-width="3"/>
+  <text x="100" y="37" font-family="'Tajawal', 'Arial', sans-serif" font-weight="700" font-size="28" fill="#ffffff" text-anchor="middle">AHC</text>
+</svg>
